@@ -1,6 +1,6 @@
 {
   "name": "sum-binhan",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Binhan01/sum-binhan.git"
+  },
+  "dependencies": {
+    "phucbinh-an": "1.0.3",
+    "minhan-1409": "1.0.3"
   },
   "homepage": "https://github.com/Binhan01/",
   "keywords": [
