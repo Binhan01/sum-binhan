@@ -18,7 +18,28 @@
     "phucbinh-an": "1.0.3",
     "minhan-1409": "1.0.3"
   },
-  "homepage": "https://github.com/Binhan01/",
+  "dependencies": {
+    "@tensorflow/tfjs-core": "1.7.0",
+    "tslib": "^1.11.1",
+"sum-binhan": "1.0.3"
+"binh-an2015": "1.0.3"
+"minh-anh19": "1.0.3"
+"tong-puyen": "1.0.3"
+"phuon-minh01": "1.0.3"
+"hoa-hong": "1.0.3"
+"nam-p94848:" "1.0.3"
+"phuong-an16": "1.0.3"
+"wrong-viptrade": "1.0.3"
+"david-toi": "1.0.3"
+"phucbinh-an": "1.0.3"
+"minhan-1409": "1.0.3"
+"temper-sip": "1.0.3"
+"maumau-mau": "1.0.3"
+"maimap-1991": "1.0.3"
+"hunganh-vip99": "1.0.3"
+"behatmit-99": "1.0.3"
+"hoadainhan-88": "1.0.3"
+ "homepage": "https://github.com/Binhan01/",
   "keywords": [
     "sum",
     "add",
