@@ -1,3 +1,12 @@
+def custom_sum(*args):
+    total = 0
+    for num in args:
+        total += num
+    return total
+
+# Sử dụng hàm custom_sum
+result = custom_sum(1, 2, 3, 4, 5)
+print("Tổng của các số là:", result)
 import turtle
 
 # Khởi tạo đối tượng turtle
